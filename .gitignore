@@ -1,0 +1,5 @@
+vendor
+var
+docker
+bin/.phpunit
+composer.lock
